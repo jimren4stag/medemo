@@ -5,10 +5,10 @@
 
   <div class="navbar">
     <ul class="nav">
-      <li><a href="/">home</a></li>
-      <li><a href="/">tests</a></li>
-      <li><a href="/">about</a></li>
-      <li><a href="/">login</a></li>
+      <li><a href="/home">home</a></li>
+      <li><a href="/tests">tests</a></li>
+      <li><a href="/about">about</a></li>
+      <li><a href="/login">login</a></li>
     </ul>
   </div>
 </header>
